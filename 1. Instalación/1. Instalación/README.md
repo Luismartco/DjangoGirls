@@ -2,6 +2,8 @@
 
 Para las personas que usan un Chromebook o aquellas con memoria limitada en sus computadoras portátiles, recomendamos usar un entorno IDE en la nube. Esto le permite interactuar con la línea de comandos, Python y Django directamente a través de su navegador, donde ya está instalado un editor de código. En caso de que esté utilizando esta instrucción, algunos pasos del tutorial no tienen que hacerse de nuevo ("Deploy/Git" ). Encontrarás una explicación más detallada en la sección "Deploy/Git".
 
+![Crear repositorio](media/girl.jpeg)
+
 Su experiencia de instalación será un poco diferente.
 
 1. Vaya a [GitHub.com](GitHub.com) y regístrese para obtener una nueva cuenta de usuario gratuita. Asegúrese de recordar su contraseña (agréguela a su administrador de contraseñas, si usa uno).
